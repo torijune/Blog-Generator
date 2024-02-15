@@ -1,2 +1,4 @@
-# FOM-NLP-QLoRA
-FOM NLP Team LoRA Fine-Tuning Project
+# Blog Generator
+FOM NLP Team Conference Project
+
+Build "Blog Generator" by LLM fine tuning with QLoRA
