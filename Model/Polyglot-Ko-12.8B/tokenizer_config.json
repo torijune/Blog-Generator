@@ -1,0 +1,6 @@
+{
+    "name_or_path": "EleutherAI/polyglot-ko-12.8b",
+    "eos_token": "<|endoftext|>",
+    "pad_token": "<|endoftext|>",
+    "tokenizer_class": "PreTrainedTokenizerFast"
+  }
