@@ -1,0 +1,7 @@
+subprocess
+bitsandbytes
+transformers
+accelerate
+torch
+pandas
+datasets
